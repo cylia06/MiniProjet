@@ -1,0 +1,3 @@
+C:/Users/celia/CLionProjects/ProjectFinalProgP/cmake-build-debug/CMakeFiles/ProjectFinalProgP.dir
+C:/Users/celia/CLionProjects/ProjectFinalProgP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/celia/CLionProjects/ProjectFinalProgP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

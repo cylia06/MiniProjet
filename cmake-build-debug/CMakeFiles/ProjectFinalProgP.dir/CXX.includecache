@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/celia/CLionProjects/ProjectFinalProgP/bitmap_image.hpp
+algorithm
+-
+cmath
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+iostream
+-
+iterator
+-
+limits
+-
+string
+-
+vector
+-
+
+C:/Users/celia/CLionProjects/ProjectFinalProgP/main.cpp
+iostream
+-
+omp.h
+-
+bitmap_image.hpp
+C:/Users/celia/CLionProjects/ProjectFinalProgP/bitmap_image.hpp
+
